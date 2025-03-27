@@ -9,7 +9,7 @@ This project analyzes chocolate sales data using Python, PostgreSQL, and visuali
 ## Features
 
 - Connects to a PostgreSQL database using SQLAlchemy.
-- ytq08Retrieves chocolate sales data.
+- Retrieves chocolate sales data.
 - Performs data transformations and aggregation.
 - Generates bar plots for monthly sales.
 - Identifies the top-performing salespersons.
