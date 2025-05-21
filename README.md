@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides an in-depth analysis of chocolate sales data, offering insights into sales trends, customer behavior, and product performance. Using Python, PostgreSQL, and visualization tools such as Matplotlib and Seaborn, this analysis supports data-driven decision-making for sales optimization.
+This project provides in-depth analysis of chocolate sales data, offering insights into sales trends, customer behavior, and product performance. Using Python, PostgreSQL, and visualization tools such as Matplotlib and Seaborn, this analysis supports data-driven decision-making for sales optimization.
 
 ## Features
 
